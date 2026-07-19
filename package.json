@@ -24,7 +24,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-utils": "^3.0.0",
-    "@mdx-js/mdx": "^3.0.0"
+    "@mdx-js/mdx": "^3.0.0",
+    "gh-pages": "^6.0.0"
   },
   "engines": {
     "node": ">=16.14"
