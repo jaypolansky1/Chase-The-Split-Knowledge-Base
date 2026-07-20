@@ -120,6 +120,10 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'Chase The Split',
+                href: 'https://chasethesplit.com/',
+              },
+              {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
