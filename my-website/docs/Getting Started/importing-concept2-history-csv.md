@@ -1,6 +1,6 @@
 ---
 
-title: How To Import Your Concept2 Logbook History By CSV
+title: Import Your Concept2 Logbook By CSV
 
 ---
 
