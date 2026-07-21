@@ -1,6 +1,6 @@
 ---
 
-title: Using the AI Assistant to Analyze Your Rowing
+title: Using the AI Assistant
 
 ---
 
