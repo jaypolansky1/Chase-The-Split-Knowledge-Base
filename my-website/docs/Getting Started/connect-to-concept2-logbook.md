@@ -12,18 +12,18 @@ On your Chase The Split dashboard, click the blue Connect Concept2 button in the
 
 Chase The Split Overview page with the Connect Concept2 button highlighted in the Concept2 card
 
-### Step 2 — Log in to your Concept2 account
+#### Step 2 — Log in to your Concept2 account
 
 Enter your Concept2 username and password on the Concept2 website and then click the Login button.
 
 Concept2 Logbook login page with the username and password fields highlighted
 
-### Step 3 — Authorize Chase The Split to connect to Concept2
+#### Step 3 — Authorize Chase The Split to connect to Concept2
 
 Click the green Approve Chase The Split (Web) button.
 
 Concept2 authorization page with the Approve Chase The Split (Web) button highlighted
 
-### Step 4 — Sync your Concept2 workouts to Chase The Split
+#### Step 4 — Sync your Concept2 workouts to Chase The Split
 
 The Concept2 card now displays "Connected to Concept2" in the blue Concept2 card. Click the Sync Workouts button to pull in your rowing data.
