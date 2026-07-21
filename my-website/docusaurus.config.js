@@ -123,10 +123,6 @@ const config = {
                 label: 'Chase The Split',
                 href: 'https://chasethesplit.com/',
               },
-             
-            ],
-          },
-         
             ],
           },
         ],
