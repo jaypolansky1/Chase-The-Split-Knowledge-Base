@@ -123,18 +123,7 @@ const config = {
                 label: 'Chase The Split',
                 href: 'https://chasethesplit.com/',
               },
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+             
             ],
           },
           {
