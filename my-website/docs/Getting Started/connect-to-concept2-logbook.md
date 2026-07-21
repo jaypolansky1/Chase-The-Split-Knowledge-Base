@@ -1,6 +1,6 @@
 ---
 
-title: Connect to Concept2 Logbook
+title: Connect To Concept2 Logbook
 
 ---
 
