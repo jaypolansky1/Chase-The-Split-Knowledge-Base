@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Chase The Split Knowledge Base`}
-      description="Description will go into a meta tag in <head />">
+      description="Learn how to connect Concept2, import workouts, and use Chase The Split's AI coach and pace analytics.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
