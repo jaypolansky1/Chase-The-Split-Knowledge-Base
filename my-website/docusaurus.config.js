@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Chase The Split Knowledge Base',
   tagline: 'Rowing analytics for your workouts.',
-  favicon: 'img/favicon.ico',
+  favicon: '🔥',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
