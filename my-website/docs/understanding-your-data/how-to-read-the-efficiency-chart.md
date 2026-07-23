@@ -6,6 +6,8 @@ title: How to Read the Efficiency Chart (Stroke Rate vs. Pace)
 
 The Efficiency chart (SPM vs Pace) answers a simple question: how much speed are you getting for each stroke you take? Two rowers can hold the same split — but the one doing it at a lower stroke rate is rowing more efficiently.
 
+![Pace Chart](Pace-Chart.png)
+
 #### How to read the chart
 
 Each dot is one workout:
