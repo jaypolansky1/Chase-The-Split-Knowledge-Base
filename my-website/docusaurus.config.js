@@ -87,8 +87,8 @@ const config = {
       navbar: {
         title: 'Knowledge Base',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Chase The Split Logo',
+          src: './docs/logo.png',
         },
         items: [
           {
