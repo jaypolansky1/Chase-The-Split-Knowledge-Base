@@ -98,8 +98,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://chasethesplit.com',
+            label: 'Chase The Split',
             position: 'right',
           },
         ],
